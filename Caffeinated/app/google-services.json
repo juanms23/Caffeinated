@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "327198543380",
+    "firebase_url": "https://coffee-ef9cb-default-rtdb.firebaseio.com",
+    "project_id": "coffee-ef9cb",
+    "storage_bucket": "coffee-ef9cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327198543380:android:5078330af36403fff06101",
+        "android_client_info": {
+          "package_name": "com.example.caffeinated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjBQIn4oGgbmY6f8PNfRoQZsnbawYCJvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
