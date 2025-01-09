@@ -1,7 +1,7 @@
 # Caffeinated
 
 ## about
-Caffeinated is a mobile app designed specifically for college students to monitor and manage their caffeine consumption. Whether you're pulling an all-nighter or just trying to stay alert during lectures, we help you make informed decisions about your caffeine intake.
+Caffeinated is a mobile app designed specifically for college students to monitor and manage caffeine consumption. Whether you're pulling an all-nighter or just trying to stay alert during lectures, we help you make informed decisions about your caffeine intake.
 
 ### features:
 - Caffeine Tracking: Log your coffee, tea, energy drinks, and other caffeinated beverages
@@ -30,6 +30,6 @@ Clone the repo locally and open the directory with Android Studio to compile.
 
 <br />
 
-To run, connect Android Studio Emulator or physical Android Emulator and press play "app" from Android Studio.
+To run, connect virtual Android Studio Emulator or physical Android Emulator and press play "app" from Android Studio.
 
 Enjoy!
